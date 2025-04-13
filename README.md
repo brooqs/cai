@@ -15,7 +15,7 @@
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/cai.git
+git clone https://github.com/brooqs/cai.git
 cd cai
 ```
 
@@ -85,7 +85,7 @@ cai/
 
 ## 💻 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/<your-username>/cai/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/brooqs/cai/issues).
 
 ## 📄 License
 
