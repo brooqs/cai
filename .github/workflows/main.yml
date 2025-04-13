@@ -2,10 +2,10 @@ name: Release Binaries
 
 on:
   push:
-    branches:
-      - release
+    tags:
+      - 'v*'
   workflow_dispatch:
-  
+
 jobs:
   build:
     name: Build on ${{ matrix.goos }}-${{ matrix.goarch }}
